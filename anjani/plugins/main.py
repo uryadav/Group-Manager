@@ -282,12 +282,12 @@ class Main(plugin.Plugin):
                 buttons.append(
                     [
                         InlineKeyboardButton(
-                            text=await self.text(chat.id, "status-page-button"),
-                            url="https://status.userbotindo.com",
+                            text=await self.text(chat.id, "Movie 🍿 Bot"),
+                            url="https://t.me/kissu_movies_bot",
                         ),
                         InlineKeyboardButton(
                             text=await self.text(chat.id, "dashboard-button"),
-                            url="https://userbotindo.com/dashboard",
+                            url="https://t.me/kissu_movies_bot",
                         ),
                     ]
                 )
