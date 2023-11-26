@@ -2,9 +2,9 @@
 start-pm: |
   Hey there! my name is **{}**.
   Any questions on how to use me? use /help
-  Join Our [Group](https://t.me/userbotindo) If You wanna Report Issue 🙂
+  Use Our [Movie Bot🍿](https://t.me/Kissu_movies_bot) If You wanna Report Issue 🙂
   I'm here to make your group management fun and easy!
-  **Managed With ❤️ By :** [UserbotIndo Team](https://t.me/userbotindo)
+  **Managed With ❤️ By :** [𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪](https://t.me/kissu123456)
   Wanna Add me to your Group? Just click the button below!
 help-pm: |
   Hello there! My name is **{}**.
@@ -16,7 +16,7 @@ help-pm: |
   × /setlang: Change your language preference.
   × /donate: Get information on how to support me.
 
-  Anjani settings are also configurable on our dashboard, [click here](https://userbotindo.com/dashboard?ref=anjani) to open dashboard.
+ Want To Make Your Own Bot , [click here](https://t.me/kissu123456) to Make #Free.
 start-chat: Sending you a warm hi & wishing your day is a happy one!
 help-chat: Contact me in PM to get the list of possible commands.
 add-to-group-button: Add to Group 👥
@@ -26,8 +26,8 @@ status-page-button: Status
 dashboard-button: Dashboard
 back-button: ⬅️ Back
 donate: |
-  Hi, glad to see you want to donate!
-  You can donate to us on [our site](https://userbotindo.com/donate?ref=anjani).
+  Hi, glad to see you want to donate! We Don't Need Money💰 Just Support Us By [Loving]
+ (https://t.me/kissu_movies_bot).
   Our team is fully handled by volunteers,, and every little helps to improve our services.
   Thank you for your support!
 markdown-helper: |
@@ -197,11 +197,11 @@ fed-user-not-admin: User isn't an admin in this federation!
 fed-demote-done: Succesfully Fdemoted!
 fed-specified-id: Please specified a federation ID!
 fed-info-text: |
-  **Federation Information:**
-  **Fed ID: **` {}`
+  **Devil-Info:**
+  **Devil's ID: **`["Soon"]`
   **Name: **`{}`
-  **Creator: **{}
-  **Total Admins: ** `{}`
+  **Creator: **["𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪"]
+  **Total Admins: ** ``
   **Total banned user: ** `{}`
   **Total banned channel: ** `{}`
   **Total groups connected: ** `{}`
@@ -211,7 +211,7 @@ fed-admin-only: Only federation admin can do this!
 fed-admin-text: |
   **{} admins:**
   👑 Owner: {}
-fed-no-admin: There are no admin in this federation!
+fed-no-admin: [𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪]
 fed-no-ban-user: You don't seems to refering a user
 fed-ban-self: Please... I'm not that dumb!
 fed-ban-owner: How can a federation owner banned in his own federation!
@@ -292,12 +292,10 @@ language-help: |
   This bot comes up with multi language support.
   You can choose your language preference!\n
   **Available languages:**
-  - 🇺🇸 English.
-  - 🇮🇩 Indonesia.\n
-  Commands:
-  ×  /setlang | /lang | /language : set your preferred language.\n
+  i Can Only Speak English 
+  - 🇺🇸 English..\n
   **Note**
-  You can use this command on group chats to change the language setting on that chat.\n
+   We Are Working On It.\n
 current-language: "**{}** current language is **{}**\nSelect language bellow to change"
 language-code-error: An error has occured (No language code)... please contact support
 language-set-succes: Language set to {} successfully
@@ -481,10 +479,9 @@ rules-channel-invalid: Chat is not accessible, it's probably because i've been b
 spampredict-button: Spam Prediction
 spampredict-help: |
   For addition we currently developing a spam protection using a machine learning. The bot will detect and delete spam messages from your chats.
-  You can also help us to train our model by casting a vote on @SpamPredictionLog. You will earn a reputation point with some benefit in the future 😉.\n
+ You will earn a reputation point with some benefit in the future 😉.\n
   **Admin Commands:**
   × /spampredict <on/off/yes/no>: Will disable or enable the message spam prediction in your group.\n
-  If enabled, the bot will automaticaly delete and log the message to @SpamPredictionLog.\n
   **User Commands:**
   × /predict <reply>: Will predict the message if it's a spam or not*.
   *this will consume 10 reputation point.
@@ -498,7 +495,7 @@ spampredict-photo-failed: "__Failed to read photo text with ocr.__\n\n"
 spampredict-insuficent: |
   Insuficent reputation to run prediction!.
   Prediction will consume {} reputation point, you only have {} reputation point.
-  You can earn reputation by voting on @SpamPredictionLog.
+  You can earn reputation by visitt @kissu_movies_bot.
 spampredict-failed: Prediction failed...
 spampredict-ban: "{user} has been banned!"
 spampredict-ban-no-perm: You don't have permission to ban users!
