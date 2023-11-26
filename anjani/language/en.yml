@@ -2,9 +2,9 @@
 start-pm: |
   Hey there! my name is **{}**.
   Any questions on how to use me? use /help
-  Join Our [Group](https://t.me/userbotindo) If You wanna Report Issue 🙂
+  Try Our Movies Bot [Movies🍿Bot](https://t.me/kissu_movies_bot) If You wanna Report Issue 🙂
   I'm here to make your group management fun and easy!
-  **Managed With ❤️ By :** [UserbotIndo Team](https://t.me/userbotindo)
+  **Managed With ❤️ By :** [𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪](https://t.me/kissu123456)
   Wanna Add me to your Group? Just click the button below!
 help-pm: |
   Hello there! My name is **{}**.
@@ -13,10 +13,8 @@ help-pm: |
   **Main** commands available:
   × /start: Starts me, can be used to check i'm alive or not.
   × /help: PM's you this message.
-  × /setlang: Change your language preference.
-  × /donate: Get information on how to support me.
 
-  Anjani settings are also configurable on our dashboard, [click here](https://userbotindo.com/dashboard?ref=anjani) to open dashboard.
+  **{}** settings are also configurable In Group, [click here](http://t.me/Dograt_1bot?startgroup=true&admin=change_info+post_messages+edit_messages+delete_messages+restrict_members+invite_users+pin_messages+promote_members+manage_video_chats+manage_chat) To Adding Me.
 start-chat: Sending you a warm hi & wishing your day is a happy one!
 help-chat: Contact me in PM to get the list of possible commands.
 add-to-group-button: Add to Group 👥
@@ -27,7 +25,7 @@ dashboard-button: Dashboard
 back-button: ⬅️ Back
 donate: |
   Hi, glad to see you want to donate!
-  You can donate to us on [our site](https://userbotindo.com/donate?ref=anjani).
+  But We Don't Need money💰 Just Visit us[Movies🍿Bot](https://kissu_movies_bot).
   Our team is fully handled by volunteers,, and every little helps to improve our services.
   Thank you for your support!
 markdown-helper: |
@@ -210,7 +208,7 @@ fed-info-subscription: "\nSubscribed to the following feds:\n"
 fed-admin-only: Only federation admin can do this!
 fed-admin-text: |
   **{} admins:**
-  👑 Owner: {}
+  👑 Owner: {𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪}
 fed-no-admin: There are no admin in this federation!
 fed-no-ban-user: You don't seems to refering a user
 fed-ban-self: Please... I'm not that dumb!
@@ -289,13 +287,10 @@ filters-list: "Filters in **{}**:\n"
 #region language
 language-button: Language
 language-help: |
-  This bot comes up with multi language support.
-  You can choose your language preference!\n
+  This bot Has Only One Language Support .
+   We will Develope It soon..!\n
   **Available languages:**
-  - 🇺🇸 English.
-  - 🇮🇩 Indonesia.\n
-  Commands:
-  ×  /setlang | /lang | /language : set your preferred language.\n
+  - 🇺🇸 English.\n
   **Note**
   You can use this command on group chats to change the language setting on that chat.\n
 current-language: "**{}** current language is **{}**\nSelect language bellow to change"
